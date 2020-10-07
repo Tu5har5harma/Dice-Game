@@ -1,0 +1,89 @@
+/* Navbar */
+.navbar{
+  background-color: #3039c5;
+}
+.navbar-brand{
+  font-size: 30px;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 25px;
+}
+
+
+
+
+
+/* Section Main */
+
+/* Headings */
+h5 , h1{
+  color: #ffffff;
+  padding: 30px 0px;
+  font-size: 80px;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+  font-family: 'Kaushan Script', cursive;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+img {
+  width: 80%;
+}
+p{
+  font-size: 45px;
+  font-family: 'Signika Negative', sans-serif;
+}
+#main{
+  background-color: #2f74e3;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+/* Section Main1 */
+
+#main1{
+  text-align: center;
+  padding: 30px 0px;
+  background-color: #3039c5;
+}
+
+/* About The Game */
+.main2{
+  background-color: #4c8bf2;
+}
+.about{
+  font-size: 25px;
+  padding: 2% 2%;
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+/* Footer */
+#footer{
+  text-align: center;
+  background-color: #3039c5;
+  padding-bottom: 4%;
+}
+#footer p{
+  font-size: 20px;
+}
+
+@media (max-width: 960px) {
+  body{
+    text-align: center;
+    margin-bottom: auto;
+  }
